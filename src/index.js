@@ -8,10 +8,6 @@ import {
   Footer,
   Home,
   About,
-  Contact,
-  Blog,
-  Posts,
-  Post,
 } from "./components";
 
 ReactDOM.render(
